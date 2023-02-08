@@ -1,0 +1,97 @@
+.navbar {
+    background-color: lightgrey;
+}
+
+.heading {
+    text-align: center;
+}
+
+.hero-image {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("2M765YD-2.jpg");
+  
+    height: 50vh;
+  
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.hero-image2 {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("1_GettyImages-1456048997.jpg");
+  
+    height: 50vh;
+  
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-image3 {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("16702399461500.jpg");
+  
+    height: 50vh;
+  
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-image4 {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("skysports-mykhailo-mudryk-chelsea_6024762.jpg");
+  
+    height: 50vh;
+  
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-image {
+  
+    height: 50vh;
+  
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("skysports-wout-weghorst.png");
+}
+
+.bg2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Benoit-Badiashile.jpg");
+}
+
+.bg3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("NoniMadueke.webp");
+}
+
+.bg4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("1_GettyImages-1456048997.jpg");
+}
+
+.bg5 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("fofana.jpg");
+}
+
+.bg6 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("NoniMadueke.webp");
+}
